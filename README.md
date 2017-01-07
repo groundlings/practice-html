@@ -1,2 +1,2 @@
-# practice-html
-Our HTML/CSS practice code
+# practice-web
+Our Front-end Web practice snippets and tests
